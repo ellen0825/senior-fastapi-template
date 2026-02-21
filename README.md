@@ -27,3 +27,5 @@ Easy DB replacement (Postgres ready)
 Horizontal scaling possible
 
 This makes reviewers think architecturally.
+
+This makes reviewers think architecturally.
